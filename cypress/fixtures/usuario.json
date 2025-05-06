@@ -1,0 +1,10 @@
+{
+  "valido": {
+    "usuario": "standard_user",
+    "senha": "secret_sauce"
+  },
+  "invalido": {
+    "usuario": "invalido",
+    "senha": "senha_errada"
+  }
+}
