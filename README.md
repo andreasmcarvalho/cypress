@@ -28,42 +28,32 @@ package.json # Dependências e scripts
 git clone https://github.com/andreasmcarvalho/cypress.git
 cd cypress
 
-Instale as dependências:
+2. Instale as dependências:
 
-bash
-Copy
-Edit
 npm install
+
+
 🧪 Executando os Testes
+
 Modo Interativo (GUI)
-bash
-Copy
-Edit
 npx cypress open
 Modo Headless (Terminal)
-bash
-Copy
-Edit
+
 npx cypress run
+
 ✅ Funcionalidades Testadas
+
 Login com credenciais válidas e inválidas
-
 Adição e remoção de produtos no carrinho
-
 Finalização de compra
-
 Validação de mensagens de erro
-
 Navegação entre páginas
 
 📝 Autor
 Andreas — Desenvolvedor e testador do projeto acadêmico de automação.
 
 📌 Observações
-Os testes foram desenvolvidos com fins acadêmicos.
 
+Os testes foram desenvolvidos com fins acadêmicos.
 Os dados utilizados são fictícios e baseados no ambiente de testes fornecido pela própria SauceDemo.
 
-yaml
-Copy
-Edit
